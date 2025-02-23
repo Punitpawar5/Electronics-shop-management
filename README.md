@@ -1,7 +1,5 @@
 # Electronic Shop Management System
 
-![Electronic Shop Banner](https://via.placeholder.com/1200x400?text=Electronic+Shop+Management+System)
-
 ## 📌 Overview
 The **Electronic Shop Management System** is designed to efficiently manage the day-to-day operations of an electronic retail store. It helps with inventory tracking, sales processing, customer management, and reporting.
 
