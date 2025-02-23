@@ -18,7 +18,7 @@ The **Electronic Shop Management System** is designed to efficiently manage the 
 ## 💻 Installation & Setup
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/yourusername/electronic-shop-management.git
+   git clone https://github.com/Punitpawar5/Electronics-shop-management.git
    cd electronic-shop-management
    ```
 
